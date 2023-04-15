@@ -3,7 +3,7 @@
 This repository contain node application deployed through Jenkins in vm instance.
 This application is built on typescript , which later converted to node application.
 
-we can attahce Jenkins Config (https://raw.githubusercontent.com/LalitMohanJoshi/node-app-jenkins/master/Jenkinsfile) in pipeline , then it will work.
+We can attach [Jenkins Config](https://raw.githubusercontent.com/LalitMohanJoshi/node-app-jenkins/master/Jenkinsfile) in pipeline, then it will work.
 
 ## Installation
 
