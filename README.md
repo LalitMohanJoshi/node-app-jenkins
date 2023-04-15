@@ -1,6 +1,6 @@
 # Jenkins Demo - [ Deployment of Node App]
 
-This repositery contain node application deployed through Jenkins in vm instance.
+This repository contain node application deployed through Jenkins in vm instance.
 This application is built on typescript , which later converted to node application.
 
 ## Installation
