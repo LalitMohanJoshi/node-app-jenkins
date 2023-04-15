@@ -27,6 +27,7 @@ pipeline {
                 sourceFiles: "publish.zip",
                 remoteDirectory: "/artifacts/",
                 makeEmptyDirs: true,
+                execCommand: "curl -s -L https://raw.githubusercontent.com/LalitMohanJoshi/node-app-jenkins/master/scripts/deploy-script-azure-centos7.sh | bash"
               )
             ])
         ])
