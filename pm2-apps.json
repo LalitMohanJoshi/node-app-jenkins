@@ -1,0 +1,8 @@
+{
+  "apps": [
+    {
+      "name": "node app",
+      "script": "./dist/server.js"
+    }
+  ]
+}
